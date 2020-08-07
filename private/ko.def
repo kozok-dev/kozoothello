@@ -1,0 +1,17 @@
+EXPORTS
+	initKoai
+	initEval
+	initHash
+	clearHash
+	setCom
+	setBoard
+	setDispEval
+	getCom
+	getBook
+	getComDepType
+	addBook
+	writeBook
+	callCom
+	forceCom
+	sendSSTP
+	comClick

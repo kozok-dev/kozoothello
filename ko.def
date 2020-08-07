@@ -1,0 +1,7 @@
+EXPORTS
+	initKoai
+	getBM
+	setCom
+	setBoard
+	callCom
+	forceCom
